@@ -1,0 +1,4 @@
+digraph hello {
+  imports="['./hello']"
+  hello -> log;
+}

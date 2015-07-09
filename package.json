@@ -2,14 +2,7 @@
   "name": "trebubu-hello-world",
   "version": "0.0.0",
   "description": "hi",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/dstockwell/trebubu-hello-world"
-  },
-  "author": "",
-  "licenses": [{
-    "type": "Apache-2.0",
-    "url": "http://www.apache.org/licenses/LICENSE-2.0"
-  }],
+  "dependencies": {
+    "tree-builder-builder": "git://github.com/dglazkov/tree-builder-builder"
+  }
 }
